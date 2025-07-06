@@ -1,0 +1,6 @@
+{import.meta.env.DEV && <script>
+    for (const element of document.querySelectorAll('[data-astro-source-file]')) {
+        element.setAttribute('data-source-file', element.getAttribute('data-astro-source-file')!);
+        element.setAttribute('data-source-loc', element.getAttribute('data-astro-source-loc')!);
+    }
+</script>}
