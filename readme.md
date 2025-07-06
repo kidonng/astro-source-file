@@ -4,7 +4,7 @@
 
 |Before|![](images/before.png)|
 |-|-|
-|**After**|![](images/before.png)|
+|**After**|![](images/after.png)|
 
 ## Usage
 
